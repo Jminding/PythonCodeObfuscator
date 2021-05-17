@@ -7,6 +7,6 @@ Running the application will give you a tkinter gui where you can select which f
 
 Obfuscation is bascially making your code hard to read so others can't interpret what it means.  Say you give the source code to someone and you don't want them to copy it and release it as their own while making changes to the code.  Then you would obfuscate it, which makes it uninterpretable.
 
-This obfuscator is still pretty basic and one can also still unobfuscate it, but it won't be easy.  There will be improvements coming later on such as filler variables and less spacing.  (it might not work perfectly with all the strings)
+#### This obfuscator is still pretty basic and one can also still unobfuscate it, but it won't be easy.  There will be improvements coming later on such as filler variables and less spacing.  (it might not work perfectly with all the strings)
 
-Enjoy obfuscating your code!
+# Enjoy obfuscating your code!
